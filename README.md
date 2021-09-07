@@ -10,7 +10,8 @@ It utilized code snscrape-python-wrapper from @MartinBeckUT
 
 ## LDA Model.ipynb
 LDA Model was modified on my classmate Pournemat's code.
-It filters emails, hashtags, numbers, twitter user names and stopwords.
+
+I added more filters to apply on tweets: emails, hashtags, numbers, and twitter user names.
 
 ## IdeaGraph.ipynb
 IdeaGraph algorithm is bulit based on Wang et al.(2014).
